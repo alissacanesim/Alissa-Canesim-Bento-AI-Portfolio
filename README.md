@@ -4,7 +4,7 @@
 
 I am an Artificial Intelligence student at Houston City College, pursuing an Associate of Applied Science in Artificial Intelligence. My primary interests include AI governance, responsible AI, computer vision, and the evaluation of AI systems.
 
-This portfolio showcases coursework, technical assignments, and projects completed throughout my studies in the Applied AI and Robotics program. Additional courses and projects will be added as my academic and professional experience continues to grow.
+This portfolio showcases coursework, technical assignments, and projects completed throughout my studies in the AI and Robotics program. Additional courses and projects will be added as my academic and professional experience continues to grow.
 
 ## Technical Skills
 
