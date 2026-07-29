@@ -50,6 +50,7 @@ This repository will continue to expand as additional coursework and projects ar
 AI-Portfolio/
 ├── README.md
 └── Computer-Vision-ITAI1378/
+```
 
 ## Contact
 
