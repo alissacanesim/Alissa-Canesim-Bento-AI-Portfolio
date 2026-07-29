@@ -1,4 +1,4 @@
-# Alissa Canesim Bento – Applied AI Portfolio
+# Alissa Canesim Bento – AI Portfolio
 
 ## About Me
 
