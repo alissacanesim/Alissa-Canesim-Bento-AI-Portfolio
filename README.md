@@ -85,3 +85,4 @@ AI-Portfolio/
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/alissacanesim/
+- **Email:** alissacanesim@gmail.com
