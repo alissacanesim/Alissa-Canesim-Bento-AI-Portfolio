@@ -4,13 +4,13 @@
 
 This project proposal was developed as the Midterm assignment for **ITAI 1378 – Computer Vision and AI**. The objective was to design a complete blueprint for a computer vision application, including the problem definition, technical approach, dataset plan, evaluation metrics, milestones, and project risks before beginning implementation.
 
-The proposed project, **Meal Ingredient Detection: What's on My Plate?**, focuses on detecting common food ingredients from meal images using object detection. :contentReference[oaicite:0]{index=0}
+The proposed project, **Meal Ingredient Detection: What's on My Plate?**, focuses on detecting common food ingredients from meal images using object detection.
 
 ---
 
 ## Project Goal
 
-The goal of this project is to automatically identify common meal ingredients from a photograph. Detecting ingredients can serve as the foundation for applications such as recipe recommendations, meal organization, and nutrition tools by reducing the manual effort required to identify ingredients in food images. :contentReference[oaicite:1]{index=1}
+The goal of this project is to automatically identify common meal ingredients from a photograph. Detecting ingredients can serve as the foundation for applications such as recipe recommendations, meal organization, and nutrition tools by reducing the manual effort required to identify ingredients in food images.
 
 ---
 
@@ -28,7 +28,7 @@ Ingredient Detection
 Annotated Image + Ingredient List + Confidence Scores
 ```
 
-The system receives a meal image as input and returns an annotated image highlighting the detected ingredients together with their confidence scores. :contentReference[oaicite:2]{index=2}
+The system receives a meal image as input and returns an annotated image highlighting the detected ingredients together with their confidence scores.
 
 ---
 
@@ -39,13 +39,13 @@ The system receives a meal image as input and returns an annotated image highlig
 - **Framework:** Ultralytics + PyTorch
 - **Development Environment:** Google Colab
 
-YOLO11 was selected for its speed, accuracy, and ability to detect multiple ingredients within a single meal image. :contentReference[oaicite:3]{index=3}
+YOLO11 was selected for its speed, accuracy, and ability to detect multiple ingredients within a single meal image.
 
 ---
 
 ## Data Plan
 
-The project proposed using publicly available ingredient detection datasets from **Roboflow Universe** or **Kaggle**. Images would be resized, normalized, and annotated using the YOLO11 bounding-box format before being divided into training, validation, and testing sets. :contentReference[oaicite:4]{index=4}
+The project proposed using publicly available ingredient detection datasets from **Roboflow Universe** or **Kaggle**. Images would be resized, normalized, and annotated using the YOLO11 bounding-box format before being divided into training, validation, and testing sets.
 
 ---
 
@@ -56,7 +56,7 @@ The proposed evaluation metrics were:
 - **Primary Metric:** mAP50 ≥ 0.70
 - **Secondary Metric:** Inference time under 1 second per image
 
-These metrics were selected to balance detection accuracy with real-time performance. :contentReference[oaicite:5]{index=5}
+These metrics were selected to balance detection accuracy with real-time performance.
 
 ---
 
@@ -70,7 +70,7 @@ The project roadmap consisted of five development phases:
 4. Improve & Measure
 5. Package & Present
 
-Each phase was designed to gradually evolve the project from planning to a complete working computer vision application. :contentReference[oaicite:6]{index=6}
+Each phase was designed to gradually evolve the project from planning to a complete working computer vision application.
 
 ---
 
@@ -81,7 +81,7 @@ The proposal identified two primary risks:
 - A suitable ingredient detection dataset may not be available.
 - The model may not achieve the expected performance.
 
-The proposed mitigation strategies included selecting an alternative public dataset or reducing the number of ingredient classes to simplify training. The project planned to use **Google Colab** as the development environment with no expected computing cost. :contentReference[oaicite:7]{index=7}
+The proposed mitigation strategies included selecting an alternative public dataset or reducing the number of ingredient classes to simplify training. The project planned to use **Google Colab** as the development environment with no expected computing cost.
 
 ---
 
