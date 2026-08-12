@@ -43,6 +43,10 @@ In this lab, I explored modern object detection and image segmentation technique
 - Tested YOLO-World for open-vocabulary object detection.
 - Compared the capabilities of SAM 2 and SAM 3.
 
+## Result
+
+YOLO11 successfully detected the expected objects in the test image, while the Large variant detected more instances than Nano but required substantially longer inference time. YOLO-World also detected the two people and three ties using text-defined classes, demonstrating the flexibility of open-vocabulary detection.
+
 ## Files
 
 - `L06_Alissa_Canesim_Bento_ITAI1378.ipynb` – Completed lab notebook including object detection, segmentation, reflection questions, and bonus activities.
