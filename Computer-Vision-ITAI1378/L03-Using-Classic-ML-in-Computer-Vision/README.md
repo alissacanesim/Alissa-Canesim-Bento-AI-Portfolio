@@ -33,6 +33,10 @@ In this lab, I completed **Option A: Comprehensive Feature Extraction & Algorith
 - NumPy
 - Matplotlib
 
+## Result
+
+The SVM + HOG combination achieved the best performance, reaching 96.3% validation accuracy with only a 3.7% train-validation gap, outperforming the Random Forest and LBP-based approaches.
+
 ## Files
 
 - `L03_A_AlissaCanesimBento_ITAI_1378.ipynb` – Completed lab notebook including feature extraction, machine learning experiments, model comparisons, and reflection questions.
