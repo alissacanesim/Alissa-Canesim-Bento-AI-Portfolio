@@ -33,6 +33,10 @@ For this lab, I explored **medical image analysis** as a real-world application 
 - Explainable AI (XAI)
 - NIST AI RMF
 
+## Result
+
+The analysis found that medical image analysis can improve efficiency, consistency, and diagnostic support through classification, detection, and segmentation, but its safe use depends on representative data, privacy protection, explainability, and continued human oversight.
+
 ## Files
 
 - `L01_Alissa_Canesim_Bento_ITAI1378.pdf` – Research paper and personal reflection on medical image analysis.
