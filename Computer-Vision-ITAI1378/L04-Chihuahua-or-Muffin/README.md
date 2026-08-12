@@ -34,6 +34,10 @@ In this lab, I built and evaluated a neural network for binary image classificat
 - NumPy
 - Matplotlib
 
+## Result
+
+The neural network reached a peak validation accuracy of 76.7%, showing that it could distinguish Chihuahuas from muffins but still struggled to generalize consistently across the full validation set.
+
 ## Files
 
 - `L04_AlissaCanesimBento_ITAI_1378.ipynb` – Completed workshop notebook including model training, evaluation, and analysis.
