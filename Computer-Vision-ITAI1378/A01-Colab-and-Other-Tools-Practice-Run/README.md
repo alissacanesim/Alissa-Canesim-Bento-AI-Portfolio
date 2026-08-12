@@ -21,6 +21,10 @@ This introductory activity focused on learning the basic tools that will be used
 - GitHub Desktop
 - Markdown
 
+## Result
+
+I successfully created and ran my first Jupyter Notebook for the course in Google Colab, executed a basic Python “Hello World” program, and practiced the workflow of uploading and organizing course files in GitHub.
+
 ## Files
 
 - `My_First_Notebook.ipynb` – Introductory Jupyter Notebook.
