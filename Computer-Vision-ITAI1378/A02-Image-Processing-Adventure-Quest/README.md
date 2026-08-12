@@ -20,10 +20,10 @@ Instead of using a fantasy setting, I developed the story **"Alissa and the AI V
 - Computer Vision concepts
 - RGB and HSV color models
 
+## Result
+
+This project strengthened my understanding of how digital images are represented before they are processed by computer vision algorithms. Creating the comic also helped reinforce the practical differences between RGB and HSV color models while exploring a more engaging way to communicate technical concepts.
+
 ## Files
 
 - `A02_Alissa_Canesim_Bento_ITAI1378.pdf` – Comic strip and reflection.
-
-## Learning Outcomes
-
-This project strengthened my understanding of how digital images are represented before they are processed by computer vision algorithms. Creating the comic also helped reinforce the practical differences between RGB and HSV color models while exploring a more engaging way to communicate technical concepts.
