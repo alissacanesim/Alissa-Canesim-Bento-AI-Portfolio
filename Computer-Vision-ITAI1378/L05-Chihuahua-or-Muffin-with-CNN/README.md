@@ -33,6 +33,10 @@ In this lab, I implemented and evaluated a **Convolutional Neural Network (CNN)*
 - NumPy
 - Matplotlib
 
+## Result
+
+The CNN achieved 96.7% validation accuracy, correctly classifying 29 of 30 Chihuahua and muffin images and demonstrating strong generalization on unseen data.
+
 ## Files
 
 - `L05_AlissaCanesimBento_ITAI_1378.ipynb` – Completed CNN workshop notebook including model training, evaluation, and experiments.
