@@ -33,7 +33,9 @@ This lab explored Vision Language Models (VLMs) by analyzing how they interpret 
 - Vision Language Models (VLMs)
 - PIL (Pillow)
 
-**Result:** The VLM performed well on image description, OCR, and accessibility tasks, but showed reliability limitations by answering only 2 of 3 chart questions correctly and hallucinating information when given misleading prompts.
+## Result
+
+The VLM performed well on image description, OCR, and accessibility tasks, but showed reliability limitations by answering only 2 of 3 chart questions correctly and hallucinating information when given misleading prompts.
 
 ## Files
 
