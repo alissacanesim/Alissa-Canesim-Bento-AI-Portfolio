@@ -4,8 +4,6 @@
 
 This lab explored Vision Language Models (VLMs) by analyzing how they interpret images, answer visual questions, generate alt text, perform OCR, and respond to misleading prompts. The activities also examined hallucinations, prompt design, accessibility, and the relationship between image patches and model performance.
 
-**Result:** The VLM performed well on image description, OCR, and accessibility tasks, but showed reliability limitations by answering only 2 of 3 chart questions correctly and hallucinating information when given misleading prompts.
-
 ## Objectives
 
 - Explore the capabilities of Vision Language Models.
@@ -34,6 +32,8 @@ This lab explored Vision Language Models (VLMs) by analyzing how they interpret 
 - Hugging Face Transformers
 - Vision Language Models (VLMs)
 - PIL (Pillow)
+
+**Result:** The VLM performed well on image description, OCR, and accessibility tasks, but showed reliability limitations by answering only 2 of 3 chart questions correctly and hallucinating information when given misleading prompts.
 
 ## Files
 
