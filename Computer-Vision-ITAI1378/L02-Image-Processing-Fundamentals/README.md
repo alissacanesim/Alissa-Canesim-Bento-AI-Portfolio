@@ -35,6 +35,10 @@ This hands-on lab explored the fundamental concepts of digital image processing 
 - NumPy
 - Matplotlib
 
+## Result
+
+The lab successfully demonstrated core image-processing operations, including grayscale conversion, brightness and contrast adjustment, convolution filtering, histogram enhancement, and geometric transformations. Grayscale conversion reduced the image data size by 66.7% while preserving the main visual structure.
+
 ## Files
 
 - `L02_Alissa_Canesim_Bento_ITAI1378.ipynb` – Completed laboratory notebook with image processing implementations and personal experiments.
